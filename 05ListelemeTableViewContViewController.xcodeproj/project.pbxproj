@@ -7,15 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		301381502997E1BB004E4313 /* UrunCVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3013814F2997E1BB004E4313 /* UrunCVCViewController.swift */; };
 		303E9089298D2B120088EE36 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303E9088298D2B120088EE36 /* AppDelegate.swift */; };
 		303E908B298D2B120088EE36 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303E908A298D2B120088EE36 /* SceneDelegate.swift */; };
 		303E908D298D2B120088EE36 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 303E908C298D2B120088EE36 /* ViewController.swift */; };
 		303E9090298D2B120088EE36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303E908E298D2B120088EE36 /* Main.storyboard */; };
 		303E9092298D2B130088EE36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 303E9091298D2B130088EE36 /* Assets.xcassets */; };
 		303E9095298D2B130088EE36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 303E9093298D2B130088EE36 /* LaunchScreen.storyboard */; };
+		30472F9029A3DF4700EBC88C /* BolumLabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30472F8F29A3DF4700EBC88C /* BolumLabViewController.swift */; };
+		30472F9329A3E1EA00EBC88C /* SatirTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30472F9129A3E1EA00EBC88C /* SatirTableViewCell.swift */; };
+		30472F9429A3E1EA00EBC88C /* SatirTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30472F9229A3E1EA00EBC88C /* SatirTableViewCell.xib */; };
+		30639D5029A6606300485C21 /* AyarlarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30639D4F29A6606300485C21 /* AyarlarViewController.swift */; };
+		30639D5229A673B700485C21 /* Ayarlar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30639D5129A673B700485C21 /* Ayarlar.swift */; };
+		306C74482995748F009E5CBD /* ColumnFlowLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 306C74472995748F009E5CBD /* ColumnFlowLayout.swift */; };
+		307396A12992A99000C22D7E /* Kisi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307396A02992A99000C22D7E /* Kisi.swift */; };
+		307396A42992AADF00C22D7E /* KisiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307396A22992AADF00C22D7E /* KisiTableViewCell.swift */; };
+		307396A52992AADF00C22D7E /* KisiTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 307396A32992AADF00C22D7E /* KisiTableViewCell.xib */; };
+		307396A72992BFBA00C22D7E /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 307396A62992BFBA00C22D7E /* ViewController2.swift */; };
+		30A5E47F29A3EB2900FF378B /* makale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A5E47E29A3EB2900FF378B /* makale.swift */; };
+		30B0F7AD2993E73000F8A0EA /* OzelCVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B0F7AB2993E73000F8A0EA /* OzelCVC.swift */; };
+		30B0F7AE2993E73000F8A0EA /* OzelCVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30B0F7AC2993E73000F8A0EA /* OzelCVC.xib */; };
+		30B0F7B02993E85100F8A0EA /* CVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B0F7AF2993E85100F8A0EA /* CVCViewController.swift */; };
+		30B6084329969D4A001E29BA /* Urun.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B6084229969D4A001E29BA /* Urun.swift */; };
+		30B6084629969E46001E29BA /* UrunCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B6084429969E46001E29BA /* UrunCollectionViewCell.swift */; };
+		30B6084729969E46001E29BA /* UrunCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 30B6084529969E46001E29BA /* UrunCollectionViewCell.xib */; };
+		30CB7ABB299A5A8D003446B3 /* TVSayfalamaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30CB7ABA299A5A8D003446B3 /* TVSayfalamaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3013814F2997E1BB004E4313 /* UrunCVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrunCVCViewController.swift; sourceTree = "<group>"; };
 		303E9085298D2B120088EE36 /* 05ListelemeTableViewContViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 05ListelemeTableViewContViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		303E9088298D2B120088EE36 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		303E908A298D2B120088EE36 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +44,24 @@
 		303E9091298D2B130088EE36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		303E9094298D2B130088EE36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		303E9096298D2B130088EE36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30472F8F29A3DF4700EBC88C /* BolumLabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BolumLabViewController.swift; sourceTree = "<group>"; };
+		30472F9129A3E1EA00EBC88C /* SatirTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SatirTableViewCell.swift; sourceTree = "<group>"; };
+		30472F9229A3E1EA00EBC88C /* SatirTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SatirTableViewCell.xib; sourceTree = "<group>"; };
+		30639D4F29A6606300485C21 /* AyarlarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AyarlarViewController.swift; sourceTree = "<group>"; };
+		30639D5129A673B700485C21 /* Ayarlar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ayarlar.swift; sourceTree = "<group>"; };
+		306C74472995748F009E5CBD /* ColumnFlowLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColumnFlowLayout.swift; sourceTree = "<group>"; };
+		307396A02992A99000C22D7E /* Kisi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisi.swift; sourceTree = "<group>"; };
+		307396A22992AADF00C22D7E /* KisiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KisiTableViewCell.swift; sourceTree = "<group>"; };
+		307396A32992AADF00C22D7E /* KisiTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = KisiTableViewCell.xib; sourceTree = "<group>"; };
+		307396A62992BFBA00C22D7E /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		30A5E47E29A3EB2900FF378B /* makale.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makale.swift; sourceTree = "<group>"; };
+		30B0F7AB2993E73000F8A0EA /* OzelCVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OzelCVC.swift; sourceTree = "<group>"; };
+		30B0F7AC2993E73000F8A0EA /* OzelCVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OzelCVC.xib; sourceTree = "<group>"; };
+		30B0F7AF2993E85100F8A0EA /* CVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CVCViewController.swift; sourceTree = "<group>"; };
+		30B6084229969D4A001E29BA /* Urun.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Urun.swift; sourceTree = "<group>"; };
+		30B6084429969E46001E29BA /* UrunCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UrunCollectionViewCell.swift; sourceTree = "<group>"; };
+		30B6084529969E46001E29BA /* UrunCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UrunCollectionViewCell.xib; sourceTree = "<group>"; };
+		30CB7ABA299A5A8D003446B3 /* TVSayfalamaViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVSayfalamaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +101,25 @@
 				303E9091298D2B130088EE36 /* Assets.xcassets */,
 				303E9093298D2B130088EE36 /* LaunchScreen.storyboard */,
 				303E9096298D2B130088EE36 /* Info.plist */,
+				307396A02992A99000C22D7E /* Kisi.swift */,
+				307396A22992AADF00C22D7E /* KisiTableViewCell.swift */,
+				307396A32992AADF00C22D7E /* KisiTableViewCell.xib */,
+				307396A62992BFBA00C22D7E /* ViewController2.swift */,
+				30B0F7AB2993E73000F8A0EA /* OzelCVC.swift */,
+				30B0F7AC2993E73000F8A0EA /* OzelCVC.xib */,
+				30B0F7AF2993E85100F8A0EA /* CVCViewController.swift */,
+				306C74472995748F009E5CBD /* ColumnFlowLayout.swift */,
+				30B6084229969D4A001E29BA /* Urun.swift */,
+				30B6084429969E46001E29BA /* UrunCollectionViewCell.swift */,
+				30B6084529969E46001E29BA /* UrunCollectionViewCell.xib */,
+				3013814F2997E1BB004E4313 /* UrunCVCViewController.swift */,
+				30CB7ABA299A5A8D003446B3 /* TVSayfalamaViewController.swift */,
+				30472F8F29A3DF4700EBC88C /* BolumLabViewController.swift */,
+				30472F9129A3E1EA00EBC88C /* SatirTableViewCell.swift */,
+				30472F9229A3E1EA00EBC88C /* SatirTableViewCell.xib */,
+				30A5E47E29A3EB2900FF378B /* makale.swift */,
+				30639D4F29A6606300485C21 /* AyarlarViewController.swift */,
+				30639D5129A673B700485C21 /* Ayarlar.swift */,
 			);
 			path = 05ListelemeTableViewContViewController;
 			sourceTree = "<group>";
@@ -125,8 +182,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				30B6084729969E46001E29BA /* UrunCollectionViewCell.xib in Resources */,
+				30B0F7AE2993E73000F8A0EA /* OzelCVC.xib in Resources */,
 				303E9095298D2B130088EE36 /* LaunchScreen.storyboard in Resources */,
+				307396A52992AADF00C22D7E /* KisiTableViewCell.xib in Resources */,
 				303E9092298D2B130088EE36 /* Assets.xcassets in Resources */,
+				30472F9429A3E1EA00EBC88C /* SatirTableViewCell.xib in Resources */,
 				303E9090298D2B120088EE36 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +200,23 @@
 			buildActionMask = 2147483647;
 			files = (
 				303E908D298D2B120088EE36 /* ViewController.swift in Sources */,
+				306C74482995748F009E5CBD /* ColumnFlowLayout.swift in Sources */,
+				30A5E47F29A3EB2900FF378B /* makale.swift in Sources */,
+				30472F9329A3E1EA00EBC88C /* SatirTableViewCell.swift in Sources */,
+				30B0F7AD2993E73000F8A0EA /* OzelCVC.swift in Sources */,
+				301381502997E1BB004E4313 /* UrunCVCViewController.swift in Sources */,
+				30B6084629969E46001E29BA /* UrunCollectionViewCell.swift in Sources */,
+				307396A12992A99000C22D7E /* Kisi.swift in Sources */,
+				30472F9029A3DF4700EBC88C /* BolumLabViewController.swift in Sources */,
+				30639D5029A6606300485C21 /* AyarlarViewController.swift in Sources */,
+				30639D5229A673B700485C21 /* Ayarlar.swift in Sources */,
 				303E9089298D2B120088EE36 /* AppDelegate.swift in Sources */,
+				307396A42992AADF00C22D7E /* KisiTableViewCell.swift in Sources */,
+				30B0F7B02993E85100F8A0EA /* CVCViewController.swift in Sources */,
 				303E908B298D2B120088EE36 /* SceneDelegate.swift in Sources */,
+				307396A72992BFBA00C22D7E /* ViewController2.swift in Sources */,
+				30B6084329969D4A001E29BA /* Urun.swift in Sources */,
+				30CB7ABB299A5A8D003446B3 /* TVSayfalamaViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
